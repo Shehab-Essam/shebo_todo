@@ -1,0 +1,18 @@
+{
+"app_title" : "تودو",
+"task_list" : "قائمة-المهام",
+"settings" : "الاعدادات",
+"english" : "الانجليزية",
+"arabic" : "العربية",
+"light" : "مضئ",
+"dark" : "ليلي",
+"theme" : "النمط",
+"language" : "اللغة",
+"add_button" : "اضافة",
+"save_button" : "حفظ التغييرات",
+"edit_button" : "تعديل المهمة",
+"add_new_task" : "اضف مهمة جديدة",
+"select_date" : "اختر التاريخ",
+"select_title" : "ادخل العنوان",
+"select_description" : "ادخل الوصف"
+}
